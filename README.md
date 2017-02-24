@@ -15,7 +15,7 @@ Make Reminder Great Again!
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/3.jpg)
 
 # ⚠️ Tips
-- Some tricks inside the project is not App Store friendly, please weigh the pros and cons yourself
+- Some tricks inside the project is **NOT** App Store friendly, please weigh the pros and cons yourself
 - Besides, please don't upload the project to App Store as a copycat of `TodayMind`, it's not cool
 
 # ❤️ Donation
