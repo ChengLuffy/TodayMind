@@ -1,0 +1,17 @@
+"Save" = "Save";
+"Tap to add item..." = "Tap to add item...";
+"Copy" = "Copy";
+"Delete" = "Delete";
+
+"Today" = "Today";
+"Tomorrow" = "Tomorrow";
+"in %dh %dm" = "in %dh %dm";
+"in %dh" = "in %dh";
+"in %dm" = "in %dm";
+
+"VO_btn_alarm" = "Alarm";
+"VO_btn_down" = "Dismiss";
+"VO_btn_list" = "List";
+"VO_icon_edit" = "Edit";
+"VO_item_completed" = "Completed";
+"VO_item_incomplete" = "Incomplete";

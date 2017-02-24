@@ -1,0 +1,17 @@
+"Save" = "保存";
+"Tap to add item..." = "点击来创建提醒...";
+"Copy" = "复制";
+"Delete" = "删除";
+
+"Today" = "今天";
+"Tomorrow" = "明天";
+"in %dh %dm" = "还有%d小时%d分钟";
+"in %dh" = "还有%d小时";
+"in %dm" = "还有%d分钟";
+
+"VO_btn_alarm" = "定时";
+"VO_btn_down" = "收起";
+"VO_btn_list" = "列表";
+"VO_icon_edit" = "编辑";
+"VO_item_completed" = "已完成";
+"VO_item_incomplete" = "未完成";
