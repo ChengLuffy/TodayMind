@@ -14,7 +14,7 @@ Make Reminder Great Again!
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/2.jpg)
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/3.jpg)
 
-# Thanks
+# 🙏 Thanks
 - [SnapKit](https://github.com/SnapKit/SnapKit): An elegant Swift autolayout DSL for iOS & OS X
 - [Jonny](http://weibo.com/u/2813718033): An outstanding iOS developer, he explorered a new way to make widget
 
