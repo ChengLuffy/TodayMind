@@ -1,6 +1,8 @@
 # ✏️ TodayMind
 Make Reminder Great Again!
 
+![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/demo.gif)
+
 # 🤔 What is TodayMind
 `TodayMind` is a tiny project that provids amazing ability to manage `Reminders` directly in Today Widget
 
@@ -13,6 +15,10 @@ Make Reminder Great Again!
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/1.jpg)
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/2.jpg)
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/3.jpg)
+
+# 🙏 Thanks
+- [SnapKit](https://github.com/SnapKit/SnapKit): An elegant Swift autolayout DSL for iOS & OS X
+- [Jonny](http://weibo.com/u/2813718033): An outstanding iOS developer, he explorered a new way to make widget
 
 # ⚠️ Tips
 - Some tricks inside the project are **NOT** App Store friendly, so please weigh the pros and cons yourself
