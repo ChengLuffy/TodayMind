@@ -1,4 +1,4 @@
-# ✏️ TodayMind
+# ✏️ TodayMind [English](https://github.com/cyanzhong/TodayMind/blob/master/README.md)
 Make Reminder Great Again!
 
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/demo.gif)
