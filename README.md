@@ -4,7 +4,7 @@ Make Reminder Great Again!
 ![image](https://raw.githubusercontent.com/cyanzhong/TodayMind/master/Resource/demo.gif)
 
 # 🤔 What is TodayMind
-`TodayMind` is a tiny project that provids amazing ability to manage `Reminders` directly in Today Widget
+`TodayMind` is a tiny project that provides amazing ability to manage `Reminders` directly in Today Widget
 
 # 🤘 Features
 - Text inputting on widget
